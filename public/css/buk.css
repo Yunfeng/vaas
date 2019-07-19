@@ -1,0 +1,11 @@
+body,button, input, select, textarea,h1 ,h2, h3, h4, h5, h6 { 
+    font-family: Microsoft YaHei,'宋体' , Tahoma, Helvetica, Arial, "\5b8b\4f53", sans-serif;
+}
+
+body.authentication-bg {
+  background-image: url("../images/bg-pattern-light.svg");
+  background-size: cover;
+  background-position: center; }
+
+.authentication-bg.enlarged, .auth-fluid-pages.enlarged {
+  min-height: 100px; }
